@@ -1,0 +1,10 @@
+# Cleanup
+.env
+.env.*
+!.env.example
+.firebase/
+node_modules/
+dist/
+*.pbix
+desktop.ini
+.DS_Store
